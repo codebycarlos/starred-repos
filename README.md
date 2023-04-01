@@ -14,14 +14,19 @@
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## C 
 
+- [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [phenopolis/grok.cr](https://github.com/phenopolis/grok.cr) - Crystal bindings for Grok
 - [imbushuo/mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 
@@ -44,6 +49,7 @@
 
 ## Crystal 
 
+- [devnote-dev/cling](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 - [phenopolis/thumbnailer](https://github.com/phenopolis/thumbnailer) - A simple CLI tool to create image thumbnails
 - [phenopolis/pluto](https://github.com/phenopolis/pluto) - A fast and convenient image processing library
 - [veelenga/awesome-crystal](https://github.com/veelenga/awesome-crystal) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
@@ -55,6 +61,7 @@
 
 ## HTML 
 
+- [nyon/fontawesome-actions](https://github.com/nyon/fontawesome-actions) - Awesome actions and overlays for Font Awesome
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [tc39/proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
@@ -64,7 +71,7 @@
 - [tc39/proposal-json-parse-with-source](https://github.com/tc39/proposal-json-parse-with-source) - Proposal for extending JSON.parse to expose input source text.
 - [tc39/proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
 - [tc39/proposal-atomics-wait-async](https://github.com/tc39/proposal-atomics-wait-async) - "asynchronous atomic wait" for ECMAScript
-- [tc39/proposal-import-assertions](https://github.com/tc39/proposal-import-assertions) - Proposal for syntax to import ES modules with assertions
+- [tc39/proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 - [tc39/proposal-json-modules](https://github.com/tc39/proposal-json-modules) - Proposal to import JSON files as modules
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
@@ -74,6 +81,18 @@
 
 ## JavaScript 
 
+- [HimbeersaftLP/ios-safari-remote-debug-kit](https://github.com/HimbeersaftLP/ios-safari-remote-debug-kit) - Remotely debugging iOS Safari on Windows and Linux
+- [bvaughn/planner](https://github.com/bvaughn/planner) - Lightweight, interactive planning tool that visualizes a series of tasks using an HTML canvas
+- [rockerBOO/fabric-offscreen-canvas](https://github.com/rockerBOO/fabric-offscreen-canvas) - WIP project to develop offscreen canvas capabilities for fabric.js
+- [zouhir/lqip](https://github.com/zouhir/lqip) - Low Quality Image Placeholders (LQIP) Module for Node
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [JLarky/react-lazily](https://github.com/JLarky/react-lazily) - react-lazily is a simple wrapper around React.lazy that supports named imports
+- [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+- [preactjs/next-plugin-preact](https://github.com/preactjs/next-plugin-preact) - Next.js plugin for preact X
+- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
+- [ptkdev/ptkdev-logger](https://github.com/ptkdev/ptkdev-logger) - 🦒 Beautiful Logger for Node.js: the best alternative to the console.log statement
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [colinhacks/bye-react](https://github.com/colinhacks/bye-react) - Command-line tool to migrate React to Preact
 - [AdamRisberg/react-image-magnifiers](https://github.com/AdamRisberg/react-image-magnifiers) - A collection of responsive, image magnifying React components for mouse and touch.
 - [preactjs/prefresh](https://github.com/preactjs/prefresh) - Hot Module Reloading for Preact
 - [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
@@ -84,7 +103,7 @@
 - [developit/redaxios](https://github.com/developit/redaxios) - The Axios API, as an 800 byte Fetch wrapper.
 - [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [icflorescu/expose-wsl](https://github.com/icflorescu/expose-wsl) - The simplest way to expose apps running on WSL to local network devices.
 - [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
 - [davidjbradshaw/eslint-formatter-summary-chart](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - A ESLint formatter to summarise errors by rules and files using bar charts
@@ -117,21 +136,33 @@
 - [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
 - [phips28/gh-action-bump-version](https://github.com/phips28/gh-action-bump-version) - GitHub Action for automated npm version bump.
 
+## Jupyter Notebook 
+
+- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+
 ## Others 
 
+- [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+- [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
 - [chinesedfan/You-Dont-Know-Axios](https://github.com/chinesedfan/You-Dont-Know-Axios) - Enrich documents for axios
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
-- [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
+- [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [Eye2Gene/Classification](https://github.com/Eye2Gene/Classification) - Classification training/inference code for Nature Medicine publication.
 
 ## Ruby 
 
+- [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
+- [bogdan/datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters
+- [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
+- [ankane/polars-ruby](https://github.com/ankane/polars-ruby) - Blazingly fast DataFrames for Ruby
 - [jeremyevans/rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework
 - [ankane/lockbox](https://github.com/ankane/lockbox) - Modern encryption for Ruby and Rails
 - [github/scientist](https://github.com/github/scientist) - :microscope: A Ruby library for carefully refactoring critical paths.
@@ -139,14 +170,54 @@
 
 ## Rust 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+
+## Swift 
+
+- [maximedegreve/TinyFaces](https://github.com/maximedegreve/TinyFaces) - Free stock avatars for everyone  👦🏼👨🏾👩🏻  (Built w/ Swift)
+
 ## TypeScript 
 
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
+- [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
+- [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
+- [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
+- [unstubbable/mfng](https://github.com/unstubbable/mfng) - Micro Frontends Next Generation – A Serverless RSC Playground
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
+- [mbrevda/react-image](https://github.com/mbrevda/react-image) - React.js &lt;img&gt; tag rendering with multiple fallback & loader support
+- [brillout/vite-plugin-ssr](https://github.com/brillout/vite-plugin-ssr) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
+- [Aslemammad/vitext](https://github.com/Aslemammad/vitext) - The Next.js like React framework for better User & Developer experience!
+- [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
+- [dai-shi/wakuwork](https://github.com/dai-shi/wakuwork) - Minimalistic React Framework
+- [lxsmnsyc/forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
+- [stegano/next-http-proxy-middleware](https://github.com/stegano/next-http-proxy-middleware) - HTTP Proxy middleware available in API Middleware provided by Next.js.
+- [aidenybai/million](https://github.com/aidenybai/million) - 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster!
+- [macaron-css/macaron](https://github.com/macaron-css/macaron) - Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity
+- [TanStack/bling](https://github.com/TanStack/bling) - 💍 Framework agnostic transpilation utilities for client/server RPCs, env isolation, islands, module splitting, and more.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [azzlkn/node-base64-to-file](https://github.com/azzlkn/node-base64-to-file) - node-base64-to-file is a light weight javascript base64 string to file conversion library for nodejs.
+- [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
+- [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
+- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
+- [t3-oss/t3bench](https://github.com/t3-oss/t3bench) - 
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+- [stepci/garph](https://github.com/stepci/garph) - Fullstack TypeScript experience for GraphQL-APIs
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (334 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -176,7 +247,7 @@
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more!
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop Visual CMS for React, Vue, Angular, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, Angular, and more
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
