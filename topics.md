@@ -15,8 +15,10 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [babel](#babel)
+- [bash](#bash)
 - [bitcoin](#bitcoin)
 - [bot](#bot)
+- [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
@@ -35,6 +37,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [electron](#electron)
+- [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
 - [firefox](#firefox)
@@ -46,6 +49,7 @@
 - [gamedev](#gamedev)
 - [github](#github)
 - [golang](#golang)
+- [google](#google)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -92,6 +96,7 @@
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
+- [shell](#shell)
 - [sql](#sql)
 - [storybook](#storybook)
 - [svelte](#svelte)
@@ -116,6 +121,7 @@
 
 ## ai 
 
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## android 
@@ -155,12 +161,16 @@
 
 ## aws 
 
-- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 
 ## babel 
 
 - [lxsmnsyc/forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
 - [rrjanbiah/react2solid](https://github.com/rrjanbiah/react2solid) - ReactJS to SolidJS Converter aka Transpiler
+
+## bash 
+
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 
 ## bitcoin 
 
@@ -170,9 +180,16 @@
 
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
+## c 
+
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
+
 ## chatgpt 
 
-- [CakeCrusher/openplugin](https://github.com/CakeCrusher/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+- [OpenPluginACI/openplugin](https://github.com/OpenPluginACI/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
@@ -236,6 +253,7 @@
 
 ## data-visualization 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 
@@ -268,7 +286,12 @@
 
 ## electron 
 
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## emoji 
+
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
 
 ## es6 
 
@@ -290,6 +313,7 @@
 
 ## framework 
 
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [open-draft/event-contract](https://github.com/open-draft/event-contract) - Type-safe, implementation-agnostic event contract framework.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 
@@ -317,8 +341,14 @@
 
 ## golang 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+
+## google 
+
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
+- [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
 ## graphql 
 
@@ -340,8 +370,8 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [HimbeersaftLP/ios-safari-remote-debug-kit](https://github.com/HimbeersaftLP/ios-safari-remote-debug-kit) - Remotely debugging iOS Safari on Windows and Linux
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
-- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
-- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
+- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [garronej/tsafe](https://github.com/garronej/tsafe) - 🔩 The missing TypeScript utils
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -376,10 +406,15 @@
 
 ## java 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 
 ## javascript 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [domfarolino/observable](https://github.com/domfarolino/observable) - Observable API proposal
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
@@ -423,6 +458,7 @@
 
 ## kotlin 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 
 ## language 
@@ -441,6 +477,7 @@
 
 ## linux 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 
@@ -450,6 +487,7 @@
 
 ## macos 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 
@@ -478,7 +516,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [Aslemammad/vitext](https://github.com/Aslemammad/vitext) - The Next.js like React framework for better User & Developer experience!
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
@@ -487,7 +525,7 @@
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
-- [serverless-stack/open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
@@ -531,6 +569,12 @@
 
 ## others 
 
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [0815fox/node-dependency-visualizer](https://github.com/0815fox/node-dependency-visualizer) - Visualizes node dependencies in a graphviz/dot graph
+- [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
+- [loktar00/react-lazy-load](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [t3dotgg/paycheck-extension](https://github.com/t3dotgg/paycheck-extension) - poorly guess how much money a tweet is worth
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [JLarky/rad-event-listener](https://github.com/JLarky/rad-event-listener) - Simple wrapper for addEventListener that returns a cleanup function so you don't have to call removeEventListener manually. The rad part is that it works with typescript 🤯
@@ -617,8 +661,7 @@
 - [Eye2Gene/Classification](https://github.com/Eye2Gene/Classification) - Classification training/inference code for Nature Medicine publication.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs
-- [phenopolis/thumbnailer](https://github.com/phenopolis/thumbnailer) - A simple CLI tool to create image thumbnails
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok) - World's Leading Open Source JPEG 2000 Codec
 - [davidjbradshaw/eslint-formatter-summary-chart](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - A ESLint formatter to summarise errors by rules and files using bar charts
 - [causaly/zod-validation-error](https://github.com/causaly/zod-validation-error) - Wrap zod validation errors in user-friendly readable messages
@@ -691,6 +734,7 @@
 
 ## python 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
@@ -711,6 +755,10 @@
 
 ## react 
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
+- [nerdyman/react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [KevinVandy/material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
 - [iddan/react-spreadsheet](https://github.com/iddan/react-spreadsheet) - Simple, customizable yet performant spreadsheet for React
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
@@ -732,18 +780,18 @@
 - [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
 - [SupremeTechnopriest/react-idle-timer](https://github.com/SupremeTechnopriest/react-idle-timer) - User activity timer component
 - [pmndrs/its-fine](https://github.com/pmndrs/its-fine) - 🐶🔥 A collection of escape hatches for React.
-- [dai-shi/react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - Simple global state for React with Hooks API without Context API
+- [dai-shi/react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - [NOT MAINTAINED] Simple global state for React with Hooks API without Context API
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - Micro Frontends Next Generation – A Serverless RSC Playground
 - [mbrevda/react-image](https://github.com/mbrevda/react-image) - React.js &lt;img&gt; tag rendering with multiple fallback & loader support
 - [Aslemammad/vitext](https://github.com/Aslemammad/vitext) - The Next.js like React framework for better User & Developer experience!
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [lxsmnsyc/forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
-- [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+- [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 - [macaron-css/macaron](https://github.com/macaron-css/macaron) - Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity
 - [JLarky/react-lazily](https://github.com/JLarky/react-lazily) - react-lazily is a simple wrapper around React.lazy that supports named imports
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -787,8 +835,8 @@
 ## react-native 
 
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
@@ -800,7 +848,7 @@
 - [silevis/reactgrid](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [mbrevda/react-image](https://github.com/mbrevda/react-image) - React.js &lt;img&gt; tag rendering with multiple fallback & loader support
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
@@ -821,6 +869,7 @@
 
 ## ruby 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [excid3/noticed](https://github.com/excid3/noticed) - Notifications for Ruby on Rails applications
 - [bogdan/datagrid](https://github.com/bogdan/datagrid) - Gem to create tables grids with sortable columns and filters
 - [Shopify/ruby-lsp](https://github.com/Shopify/ruby-lsp) - An opinionated language server for Ruby
@@ -828,6 +877,8 @@
 
 ## rust 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -843,6 +894,10 @@
 ## serverless 
 
 - [unstubbable/mfng](https://github.com/unstubbable/mfng) - Micro Frontends Next Generation – A Serverless RSC Playground
+
+## shell 
+
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 
 ## sql 
 
@@ -863,6 +918,7 @@
 
 ## swift 
 
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [maximedegreve/TinyFaces](https://github.com/maximedegreve/TinyFaces) - Free stock avatars for everyone  👦🏼👨🏾👩🏻  (Built w/ Swift)
 
@@ -872,6 +928,7 @@
 
 ## terminal 
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
 ## testing 
@@ -880,6 +937,12 @@
 
 ## typescript 
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 30,000 supported emoji mashups as part of Google's Emoji Kitche
+- [nerdyman/react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [KevinVandy/material-react-table](https://github.com/KevinVandy/material-react-table) - A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript
@@ -892,17 +955,17 @@
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [dai-shi/react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - Simple global state for React with Hooks API without Context API
+- [dai-shi/react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - [NOT MAINTAINED] Simple global state for React with Hooks API without Context API
 - [akheron/optics-ts](https://github.com/akheron/optics-ts) - Type-safe, ergonomic, polymorphic optics for TypeScript
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
-- [chen-rn/CUA](https://github.com/chen-rn/CUA) - create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
+- [chen-rn/CUA](https://github.com/chen-rn/CUA) - (deprecated for t4stack) create-universal-app(CUA) is an opinionated template for creating fullstack universal apps (Expo, Next, tRPC, Prisma, Clerk, Solito, Tamagui)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [lxsmnsyc/forgetti](https://github.com/lxsmnsyc/forgetti) - Solve your hook spaghetti (with more spaghetti). Inspired by React Forget.
 - [axiomhq/next-axiom](https://github.com/axiomhq/next-axiom) - The official Next.js library for Axiom.
 - [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
-- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox and nope.
+- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [danielroe/magic-regexp](https://github.com/danielroe/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
@@ -930,6 +993,7 @@
 
 ## visual-studio-code 
 
+- [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## vue 
@@ -962,7 +1026,7 @@
 ## webpack 
 
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
 - [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 
 ## windows 
