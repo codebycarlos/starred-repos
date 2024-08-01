@@ -149,6 +149,7 @@
 
 ## JavaScript 
 
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
 - [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - Apply semantic-release's automatic publishing to a monorepo.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [nodejs/postject](https://github.com/nodejs/postject) - Easily inject arbitrary read-only resources into executable formats (Mach-O, PE, ELF) and use it at runtime.
@@ -156,7 +157,7 @@
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC) - Simplest WebRTC ever
 - [mappum/electron-eval](https://github.com/mappum/electron-eval) - Run code inside a hidden Electron window
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
@@ -262,6 +263,7 @@
 
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 
@@ -293,7 +295,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
@@ -319,7 +321,7 @@
 - [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
 - [davabase/transcriber_app](https://github.com/davabase/transcriber_app) - Real time speech to text transcription app.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [scriptide-tech/blog-tracking-active-window-macos-objective-c-electron](https://github.com/scriptide-tech/blog-tracking-active-window-macos-objective-c-electron) - 
@@ -335,7 +337,6 @@
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [CakeCrusher/openplugin](https://github.com/CakeCrusher/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [continuum-llms/chatgpt-memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
@@ -369,6 +370,7 @@
 - [victorporof/rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [dimusic/active-win-pos-rs](https://github.com/dimusic/active-win-pos-rs) - A small Rust library that lets you get position, size, title and a few other properties of the active window on Windows, MacOS and Linux
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
@@ -378,7 +380,7 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [maestro-os/maestro](https://github.com/maestro-os/maestro) - Unix-like kernel written in Rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [grovesNL/glow](https://github.com/grovesNL/glow) - GL on Whatever: a set of bindings to run GL anywhere and avoid target-specific code
@@ -407,6 +409,7 @@
 
 ## Swift 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [EthanSK/Menu-Bar-Dock](https://github.com/EthanSK/Menu-Bar-Dock) - Put the MacOS dock of apps in the menu bar (with customizability)
 - [maximedegreve/TinyFaces](https://github.com/maximedegreve/TinyFaces) - Free stock avatars for everyone  👦🏼👨🏾👩🏻  (Built w/ Swift)
 
@@ -418,7 +421,7 @@
 
 - [lightning-joyce/chromeai](https://github.com/lightning-joyce/chromeai) - Chrome Built-in AI Demo page
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source dev productivity platform for engineering teams ✨
+- [middlewarehq/middleware](https://github.com/middlewarehq/middleware) - ✨ Open-source DORA metrics platform for engineering teams ✨
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) - 
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
@@ -443,7 +446,6 @@
 - [un/webhook-proxy](https://github.com/un/webhook-proxy) - A simple tool for working with webhooks. Supports forwarding messages to one or multiple destinations, and replaying messages
 - [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn) - Work seamlessly with partial mocks in TypeScript.
 - [agiledigital/typed-redux-saga](https://github.com/agiledigital/typed-redux-saga) - An attempt to bring better TypeScript typing to redux-saga.
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [Kishanjay/electron-typesafe-ipc](https://github.com/Kishanjay/electron-typesafe-ipc) - Adds type-safety with TypeScript to the electrons IPC protocols of ipcRenderer and ipcMain.
 - [jtlapp/electron-affinity](https://github.com/jtlapp/electron-affinity) - Electron IPC via simple method calls
 - [forge42dev/remix-client-cache](https://github.com/forge42dev/remix-client-cache) - Utility library to cache your client data in Remix.run
@@ -463,7 +465,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [Expensify/react-native-onyx](https://github.com/Expensify/react-native-onyx) - Persistent, offline-first state management solution for React Native. Easy to use with minimal config and boilerplate.
 - [Expensify/App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
-- [tokenami/tokenami](https://github.com/tokenami/tokenami) - Atomic CSS-in-JS in the style attribute. Type-safe static styles with theming, responsive variant support, and no bundler integration.
+- [tokenami/tokenami](https://github.com/tokenami/tokenami) - Just-in-time atomic CSS, in the style attribute. Fully typed static styles with theming, variant support, and no bundler integration.
 - [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 - [JoshuaKGoldberg/github-username-to-emails](https://github.com/JoshuaKGoldberg/github-username-to-emails) - Fetches any public emails associated with a GitHub username. 📧
 - [ui-js/grok](https://github.com/ui-js/grok) - A tool to build beautiful documentation from TypeScript declaration files
@@ -485,7 +487,7 @@
 - [aidenybai/reaict](https://github.com/aidenybai/reaict) - Optimize React with AI
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [Effect-TS/match](https://github.com/Effect-TS/match) - Functional pattern matching with the full power of TypeScript
-- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 50,000 supported emoji mashups as part of Google's Emoji Kitche
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [nerdyman/react-compare-slider](https://github.com/nerdyman/react-compare-slider) - A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -521,10 +523,10 @@
 - [ged-odoo/blockdom](https://github.com/ged-odoo/blockdom) - A fast virtual dom library
 - [aidenybai/hundred](https://github.com/aidenybai/hundred) - Build your own mini Million.js
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
-- [bitair-org/concurrent.js](https://github.com/bitair-org/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
+- [BitairLabs/concurrent.js](https://github.com/BitairLabs/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Powerful and type-safe form state management for the web. TS/JS, React Form, Solid Form, Lit Form and Vue Form.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
-- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, rolldown, and more
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
 - [saasquatch/bunshi](https://github.com/saasquatch/bunshi) - Molecule pattern for jotai, valtio, zustand, nanostores, xstate, react and vue
 - [jotaijs/jotai-scope](https://github.com/jotaijs/jotai-scope) - 
@@ -579,14 +581,14 @@
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [colinhacks/devii](https://github.com/colinhacks/devii) - A developer blog starter for 2021 (Next.js + React + TypeScript + Markdown + syntax highlighting)
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
-- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
+- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
 - [t3-oss/t3bench](https://github.com/t3-oss/t3bench) - 
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [amannn/next-query-params](https://github.com/amannn/next-query-params) - Convenient state management of query parameters in Next.js apps.
+- [amannn/next-query-params](https://github.com/amannn/next-query-params) - Convenient state management of query parameters in Next.js apps
 - [pmndrs/react-use-measure](https://github.com/pmndrs/react-use-measure) - 🙌 Utility to measure view bounds
 - [unjs/magic-regexp](https://github.com/unjs/magic-regexp) - A compiled-away, type-safe, readable RegExp alternative
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -612,7 +614,7 @@
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
-- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Visual Development for React, Vue, Svelte, Qwik, and more
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
