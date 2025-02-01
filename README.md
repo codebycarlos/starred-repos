@@ -45,6 +45,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [brailcom/speechd](https://github.com/brailcom/speechd) - Common high-level interface to speech synthesis
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
@@ -169,7 +170,7 @@
 - [guerrillacontra/html5-es6-physics-rope](https://github.com/guerrillacontra/html5-es6-physics-rope) - An interactive 2D (canvas) rope all made with ES6 and contains vector operations, stabilized Verlet integration and motion blur.
 - [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
-- [arthurfiorette/proposal-safe-assignment-operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator) - Draft for ECMAScript Error Safe Assignment Operator
+- [arthurfiorette/proposal-try-statements](https://github.com/arthurfiorette/proposal-try-statements) - Draft for ECMAScript Error Safe Assignment Operator
 - [sclavijosuero/wick-a11y](https://github.com/sclavijosuero/wick-a11y) - Cypress plugin for performing configurable Accessibility tests using AXE. Flawless integration in Cypress with violations shown graphically on the web page and the Cypress log, and generating HTML doc
 - [codebycarlos/scriptpilot](https://github.com/codebycarlos/scriptpilot) - A web platform powering serverless user-defined scripts. ScriptPilot provides a simple, user-friendly platform for managing scripts hosted in the cloud for various computing purposes. Scripts can be i
 - [ccoreilly/vosk-browser](https://github.com/ccoreilly/vosk-browser) - A speech recognition library running in the browser thanks to a WebAssembly build of Vosk
@@ -306,7 +307,7 @@
 
 ## Mojo 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 
 ## Objective-C 
 
@@ -314,6 +315,7 @@
 
 ## Others 
 
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I've built with Stripe for years. This is how I do it without going mad.
 - [tc39/proposal-upsert](https://github.com/tc39/proposal-upsert) - ECMAScript Proposal, specs, and reference implementation for Map.prototype.upsert
 - [jonrandahl/H5BP-Multi-Layer-FavIcons](https://github.com/jonrandahl/H5BP-Multi-Layer-FavIcons) - Standing on the shoulders of giants I offer this tweaked photoshop template to help create both touch icons for a site as well as a multi-layered favicon utilising the currently recommended ratios!
 - [nodejs/single-executable](https://github.com/nodejs/single-executable) - This team aims to advance the state of the art in packaging Node.js applications as single standalone executables (SEAs) on all supported operating systems.
@@ -352,7 +354,7 @@
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and p
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
@@ -465,11 +467,14 @@
 
 ## TypeScript 
 
+- [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+- [SahilAggarwal2004/react-text-to-speech](https://github.com/SahilAggarwal2004/react-text-to-speech) - An easy-to-use React.js component that leverages the Web Speech API to convert text to speech.
 - [component-driven/cypress-axe](https://github.com/component-driven/cypress-axe) - Test accessibility with axe-core in Cypress
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown note taking app - leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [ken107/piper-browser-extension](https://github.com/ken107/piper-browser-extension) - Provides Piper neural text-to-speech voices as a browser extension
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
@@ -512,7 +517,7 @@
 - [agiledigital/typed-redux-saga](https://github.com/agiledigital/typed-redux-saga) - An attempt to bring better TypeScript typing to redux-saga.
 - [Kishanjay/electron-typesafe-ipc](https://github.com/Kishanjay/electron-typesafe-ipc) - Adds type-safety with TypeScript to the electrons IPC protocols of ipcRenderer and ipcMain.
 - [jtlapp/electron-affinity](https://github.com/jtlapp/electron-affinity) - Electron IPC via simple method calls
-- [forge42dev/remix-client-cache](https://github.com/forge42dev/remix-client-cache) - Utility library to cache your client data in Remix.run
+- [forge-42/remix-client-cache](https://github.com/forge-42/remix-client-cache) - Utility library to cache your client data in Remix.run
 - [trvswgnr/sloth-pipe](https://github.com/trvswgnr/sloth-pipe) - A lazy evaluated, chainable, and reusable pipe for data transformation and processing.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
@@ -588,7 +593,7 @@
 - [ged-odoo/blockdom](https://github.com/ged-odoo/blockdom) - A fast virtual dom library
 - [aidenybai/hundred](https://github.com/aidenybai/hundred) - Build your own mini Million.js
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
-- [BitairLabs/concurrent.js](https://github.com/BitairLabs/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js & Deno & Bun)
+- [BitairLabs/concurrent.js](https://github.com/BitairLabs/concurrent.js) - Non-blocking Concurrent Computation for JavaScript RTEs (Web Browsers, Node.js, Deno & Bun)
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [t3-oss/t3-env](https://github.com/t3-oss/t3-env) - 
 - [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
