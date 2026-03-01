@@ -46,7 +46,9 @@
 
 ## C 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [brailcom/speechd](https://github.com/brailcom/speechd) - Common high-level interface to speech synthesis
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -67,7 +69,6 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 - [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp) - A tool for recompiling Xbox 360 games to native executables.
@@ -267,7 +268,7 @@
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [icflorescu/expose-wsl](https://github.com/icflorescu/expose-wsl) - The simplest way to expose apps running on WSL to local network devices.
-- [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
+- [nanokind/eslint-formatter-mo](https://github.com/nanokind/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
 - [davidjbradshaw/eslint-formatter-summary-chart](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - A ESLint formatter to summarise errors by rules and files using bar charts
 - [tc39/proposal-throw-expressions](https://github.com/tc39/proposal-throw-expressions) - Proposal for ECMAScript 'throw' expressions
 - [tc39/proposal-explicit-resource-management](https://github.com/tc39/proposal-explicit-resource-management) - ECMAScript Explicit Resource Management
@@ -362,7 +363,6 @@
 - [janhq/ichigo](https://github.com/janhq/ichigo) - Local realtime voice AI
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
@@ -620,7 +620,7 @@
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [tam315/react-compare-image](https://github.com/tam315/react-compare-image) - React component to compare two images with a slider
 - [jpalumickas/use-window-focus](https://github.com/jpalumickas/use-window-focus) - React Hook to check if window is focused
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [open-draft/event-contract](https://github.com/open-draft/event-contract) - Type-safe, implementation-agnostic event contract framework.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [dai-shi/excalidraw-claymate](https://github.com/dai-shi/excalidraw-claymate) - A tool based on Excalidraw to create stop motion animations and slides.
