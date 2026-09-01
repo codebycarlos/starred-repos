@@ -125,6 +125,7 @@
 - [JackMordaunt/icns](https://github.com/JackMordaunt/icns) - Easily create .icns files (Mac Icons) with this Go library or the included CLI.
 - [sindrel/excalidraw-converter](https://github.com/sindrel/excalidraw-converter) - A command line tool for porting Excalidraw diagrams to Gliffy, draw.io and Mermaid.
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build JavaScript CDN for modern web development.
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 
 ## HTML 
@@ -204,7 +205,7 @@
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [simplewebrtc/SimpleWebRTC](https://github.com/simplewebrtc/SimpleWebRTC) - Simplest WebRTC ever
 - [mappum/electron-eval](https://github.com/mappum/electron-eval) - Run code inside a hidden Electron window
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [react/react-strict-dom](https://github.com/react/react-strict-dom) - React Strict DOM (RSD) standardizes the development of styled React components for web and native.
 - [sailscastshq/boring-stack](https://github.com/sailscastshq/boring-stack) - Ship JavaScript products with battle-tested technologies in days not weeks.
 - [mrsteele/dotenv-webpack](https://github.com/mrsteele/dotenv-webpack) - A secure webpack plugin that supports dotenv and other environment variables and only exposes what you choose and use.
@@ -332,8 +333,9 @@
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [kunovsky/paid-open-source-projects](https://github.com/kunovsky/paid-open-source-projects) - A list of open source software projects that will pay you to contribute
 - [fempire/women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
@@ -343,6 +345,7 @@
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
 - [wallabyjs/console-ninja](https://github.com/wallabyjs/console-ninja) - Repository for Console Ninja questions and issues
@@ -356,6 +359,7 @@
 
 ## Python 
 
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own.
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
@@ -371,7 +375,7 @@
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Open source AI job application bot in Python: browser automation and web scraping to read job postings, then auto-apply with a tailored resume and cover letter for each posting.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) - [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
@@ -383,7 +387,6 @@
 - [davabase/transcriber_app](https://github.com/davabase/transcriber_app) - Real time speech to text transcription app.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [scriptide-tech/blog-tracking-active-window-macos-objective-c-electron](https://github.com/scriptide-tech/blog-tracking-active-window-macos-objective-c-electron) - 
 - [nullxx/electron-active-window](https://github.com/nullxx/electron-active-window) - C++ N-API module to get information on the currently selected window on Linux, MacOS and Windows.
@@ -394,7 +397,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [calcom/sans](https://github.com/calcom/sans) - The home for our Cal Sans font.
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [CakeCrusher/openplugin](https://github.com/CakeCrusher/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -433,12 +436,15 @@
 
 ## Rust 
 
+- [swaits/mousefree](https://github.com/swaits/mousefree) - Keyboard-driven mouse navigation for Wayland
+- [cristicretu/diri](https://github.com/cristicretu/diri) - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [victorporof/rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
@@ -529,7 +535,6 @@
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
 - [m-abdi/voice2text](https://github.com/m-abdi/voice2text) - speech to text functionality in web(browsers,...) with minimum configuration and maximum compatibility and performance.
 - [texttree/voice2text](https://github.com/texttree/voice2text) - speech to text functionality with minimum configuration and maximum compatibility and performance.
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
@@ -602,7 +607,7 @@
 - [fabiospampinato/textmate-highlighter](https://github.com/fabiospampinato/textmate-highlighter) - An isomorphic syntax highlighter using TextMate grammars and VSCode themes.
 - [isaacs/catcher](https://github.com/isaacs/catcher) - 
 - [javierbrea/cypress-fail-fast](https://github.com/javierbrea/cypress-fail-fast) - A Cypress plugin to skip tests on first failure.
-- [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [open-draft/deferred-promise](https://github.com/open-draft/deferred-promise) - Promise A+ compatible abstraction that defers resolving/rejecting promises to another closure.
@@ -710,7 +715,6 @@
 - [stepci/garph](https://github.com/stepci/garph) - Fullstack GraphQL Framework for TypeScript
 - [vercel-labs/next-fetch](https://github.com/vercel-labs/next-fetch) - Intuitive data fetching for Next.js
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [amannn/next-query-params](https://github.com/amannn/next-query-params) - Convenient state management of query parameters in Next.js apps
 - [pmndrs/react-use-measure](https://github.com/pmndrs/react-use-measure) - 🙌 Utility to measure view bounds
 - [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
@@ -734,7 +738,6 @@
 - [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Convert any website to editable Figma designs
